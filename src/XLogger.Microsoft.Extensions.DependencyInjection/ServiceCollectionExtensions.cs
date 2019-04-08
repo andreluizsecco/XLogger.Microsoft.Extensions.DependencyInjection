@@ -1,9 +1,8 @@
 using System;
-using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using XLogger;
 
-namespace Microsoft.Extensions.DependencyInjection
+namespace XLogger
 {
     public static class ServiceCollectionExtensions
     {
@@ -15,6 +14,5 @@ namespace Microsoft.Extensions.DependencyInjection
             logging.ClearProviders();
             new LoggerHub(logging.Services, loggerHubOptions);
         }
-
     }
 }
