@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>XLogger.Microsoft.Extensions.DependencyInjection</PackageId>
-    <Version>1.0.0-preview</Version>
+    <Version>1.0.1-preview</Version>
     <Authors>André Secco</Authors>
     <Owners>andreluizsecco</Owners>
     <Product>XLogger.Microsoft.Extensions.DependencyInjection</Product>
