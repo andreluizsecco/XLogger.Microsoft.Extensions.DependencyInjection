@@ -9,7 +9,7 @@
     <Product>XLogger.Microsoft.Extensions.DependencyInjection</Product>
     <Description>Xlogger extensions for Microsoft.Extensions.DependencyInjection</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/andreluizsecco/XLogger.Microsoft.Extensions.DependencyInjectione</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/andreluizsecco/XLogger.Microsoft.Extensions.DependencyInjection</PackageProjectUrl>
     <RepositoryUrl>https://github.com/andreluizsecco/XLogger.Microsoft.Extensions.DependencyInjection</RepositoryUrl>
     <PackageIconUrl>https://github.com/andreluizsecco/XLogger.Microsoft.Extensions.DependencyInjection/raw/master/logo.png</PackageIconUrl>
     <PackageTags>XLogger Logger Logging Log Extension DependencyInjection dotnet .NET</PackageTags>
