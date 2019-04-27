@@ -1,4 +1,5 @@
-# XLogger.Microsoft.Extensions.DependencyInjection
+![](https://raw.githubusercontent.com/andreluizsecco/XLogger.Microsoft.Extensions.DependencyInjection/dev/logo_horizontal.png)
+
 Xlogger extensions for Microsoft.Extensions.DependencyInjection
 
 [![License](https://img.shields.io/github/license/andreluizsecco/xlogger.Microsoft.Extensions.DependencyInjection.svg)](LICENSE)
