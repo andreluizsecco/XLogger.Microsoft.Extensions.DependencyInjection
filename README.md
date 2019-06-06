@@ -28,13 +28,13 @@ Install-Package XLogger.Microsoft.Extensions.DependencyInjection
 ```
 dotnet add package XLogger.Microsoft.Extensions.DependencyInjection
 ```
-## How to Use
+## Documentation
 
-Check the our Wiki: [https://github.com/andreluizsecco/XLogger.Microsoft.Extensions.DependencyInjection/wiki/get-started](https://github.com/andreluizsecco/XLogger.Microsoft.Extensions.DependencyInjection/wiki/get-started)
+Check the our Wiki: [https://github.com/andreluizsecco/XLogger/wiki](https://github.com/andreluizsecco/XLogger/wiki)
 
 ## Roadmap
 
-Check the complete roadmap: [https://github.com/andreluizsecco/XLogger.Microsoft.Extensions.DependencyInjection/wiki/roadmap](https://github.com/andreluizsecco/XLogger.Microsoft.Extensions.DependencyInjection/wiki/roadmap)
+Check the complete roadmap: [https://github.com/andreluizsecco/XLogger/wiki/roadmap](https://github.com/andreluizsecco/XLogger/wiki/roadmap)
 
 ## Author
 
